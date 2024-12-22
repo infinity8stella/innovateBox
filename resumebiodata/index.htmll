@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Welcome to Sinchana's professional profile homepage. Navigate to Resume and Bio-Data pages.">
+  <meta name="keywords" content="profile, homepage, resume, bio-data, navigation">
+  <meta name="author" content="Sinchana">
+  <title>Welcome to My Profile</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Professional Profile</h1>
+    <p>Explore my Resume and Bio-Data to know more about me!</p>
+  </header>
+
+  <main>
+    <section class="navigation-section">
+      <h2>Navigate to:</h2>
+      <div class="nav-buttons">
+        <a href="resume.html" class="nav-button">Resume</a>
+        <a href="biodata.html" class="nav-button">Bio-Data</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2024 Sinchana. All rights reserved.</p>
+    <p><a href="mailto:sinchana@example.com">Contact Me</a></p>
+  </footer>
+</body>
+</html>
